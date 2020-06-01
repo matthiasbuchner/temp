@@ -6,7 +6,7 @@
         "secretsmanager:GetSecretValue"
       ],
       "Effect": "Allow",
-      "Resource": "*"
+      "Resource": "arn:aws:secretsmanager:us-west-2:553764417001:secret:SampleSecret-VqcmOi"
     }
   ]
 }
